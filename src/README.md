@@ -7,8 +7,8 @@ Markdown 문법 정리
 
 2. BlockQuote
 > This is a first blockquote
->       > This is a second blockquote
->       >       > This is a third blockquote
+> > This is a second blockquote
+> > > This is a third blockquote
 
 3. 목록
   * first
@@ -36,11 +36,11 @@ Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
 
 7. 강조
-*single asterisks*
-_single underscore_
-**double asterisks**
-__double underscore__
-~~cancleline~~
+*single asterisks*    
+_single underscore_    
+**double asterisks**    
+__double underscore__    
+~~cancleline~~    
 
 8. image
 <img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
