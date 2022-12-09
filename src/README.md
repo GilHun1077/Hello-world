@@ -57,3 +57,9 @@ __double underscore__
 
 - 겁먹지 않기
 - 에러코드 잘 읽기
+
+## 되돌리기
+
+- reset
+- goot point: very easy
+- bad point: disappear commit, push --force
