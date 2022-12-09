@@ -57,3 +57,9 @@ __double underscore__
 
 - 겁먹지 않기
 - 에러코드 잘 읽기
+
+## 되돌리기
+
+- reset
+- 장점: easy
+- 단점: erase commit, push --force 
