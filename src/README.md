@@ -60,6 +60,12 @@ __double underscore__
 
 ## 되돌리기
 
+### reset 이용
 - reset
-- goot point: very easy
+- good point: very easy
 - bad point: disappear commit, push --force
+
+### branch 사용해서 되돌리기
+- commit 사라지지 않는다.
+- good point: easy
+- bad point: messy
