@@ -69,3 +69,7 @@ __double underscore__
 - commit 사라지지 않는다.
 - good point: easy
 - bad point: messy
+
+### revert 사용
+- good point: commit 사라지지 않는다.
+- bad point: little hard
