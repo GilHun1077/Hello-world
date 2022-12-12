@@ -73,3 +73,7 @@ __double underscore__
 ### revert 사용
 - good point: commit 사라지지 않는다.
 - bad point: little hard
+
+#### revert 여러개 되돌리기
+- 최신 순서대로 revert를 반복 적용
+- CLI -> git revert HEAD HEAD~1
