@@ -103,3 +103,6 @@ __double underscore__
 - 충돌 가능성이 더 높다
 - 위험하다
 - 이미 원격에 있는 브랜치를 rebase 하면 안된
+
+### rebase test
+rebase branch 추가
