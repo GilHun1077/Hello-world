@@ -77,3 +77,12 @@ __double underscore__
 #### revert 여러개 되돌리기
 - 최신 순서대로 revert를 반복 적용
 - CLI -> git revert HEAD HEAD~1
+
+### temporary storage of work in progress
+- 브랜치1에서 일단(임시) 커밋을 한다
+- 브랜치2로 체크아웃하고 볼 일을 본다
+- 다시 브랜치1로 되돌아 온다
+- 1의 작업을 이어서 마무리 짓는다
+- 커밋 덮어쓰기 (commit --amend)를 한다
+- (옵션) 필요하다면 (push --force)를 한다
+
